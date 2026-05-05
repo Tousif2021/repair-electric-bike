@@ -5,10 +5,7 @@ import se.kth.iv1350.repairelectricbike.integration.Printer;
 import se.kth.iv1350.repairelectricbike.integration.RegistryCreator;
 import se.kth.iv1350.repairelectricbike.view.View;
 
-/**
- * Starts the application by instantiating the central objects in each
- * layer and then handing control over to the view.
- */
+
 public class Main {
 
     /**
